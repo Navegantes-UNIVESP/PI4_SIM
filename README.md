@@ -1,6 +1,6 @@
 # PI4_SIM 
 
-## Projeto Integrador 4 desenvolvido por alunos da UNIVESP (Universidade Virtual do Estado de São Paulo)
+## Projeto Integrador IV desenvolvido por alunos da UNIVESP (Universidade Virtual do Estado de São Paulo)
 
 ### **Grupo composto pelos alunos:**
 
