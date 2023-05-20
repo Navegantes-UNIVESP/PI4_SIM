@@ -10,21 +10,21 @@ st.set_page_config(
     page_icon=":gear:",
 )
 
-def add_bg_from_url():
-    st.markdown(
-         f"""
-         <style>
-         .stApp {{
-             background-image: url("https://img.freepik.com/free-vector/white-abstract-background-design_361591-1242.jpg?w=2000");
-             background-attachment: fixed;
-             background-size: cover
-         }}
-         </style>
-         """,
-         unsafe_allow_html=True
-     )
+# def add_bg_from_url():
+#     st.markdown(
+#          f"""
+#          <style>
+#          .stApp {{
+#              background-image: url("https://img.freepik.com/free-vector/white-abstract-background-design_361591-1242.jpg?w=2000");
+#              background-attachment: fixed;
+#              background-size: cover
+#          }}
+#          </style>
+#          """,
+#          unsafe_allow_html=True
+#      )
 
-add_bg_from_url()
+# add_bg_from_url()
 
 
 #Loading up the Regression model we created

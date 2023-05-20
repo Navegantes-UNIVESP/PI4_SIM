@@ -1,8 +1,8 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="PI4 - UNIVESP",
-    page_icon=":house:",
+    page_title="Home",
+    page_icon="👋",
 )
 
 st.write(" # Bem vindo à Plataforma da Longevidade! 👋")

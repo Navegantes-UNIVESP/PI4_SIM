@@ -1,9 +1,15 @@
 import streamlit as st
+from PIL import Image
 
 st.set_page_config(
-    page_title="Integrantes (GRUPO 011)",
+    page_title="Integrantes",
     page_icon=":construction_worker:",
 )
+
+image = Image.open('logo_univesp.png')
+st.image(image)
+
+st.write('#### [Universidade Virtual do Estado de São Paulo (UNIVESP)](https://univesp.br)')
 
 st.write("# Integrantes 👋")
 
@@ -24,3 +30,5 @@ st.markdown(
     - Daniel Spinoso Prado
 """
 )
+
+
