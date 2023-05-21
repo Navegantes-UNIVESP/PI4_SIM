@@ -10,7 +10,7 @@ image = Image.open('logo_univesp.png')
 st.image(image)
 
 st.write('#### [Universidade Virtual do Estado de São Paulo (UNIVESP)](https://univesp.br)')
-st.write('#### :octocat: [Github do PI-4](https://github.com/Navegantes-UNIVESP/PI4_SIM)')
+st.write('#### [Github do PI-4](https://github.com/Navegantes-UNIVESP/PI4_SIM)')
 
 
 st.write("# Integrantes 👋")
